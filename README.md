@@ -1,6 +1,4 @@
-Sure, Ashwin! Here’s a concise and clear **theory (documentation)** for your **motorcompany SQL project** — which you can include in your GitHub repo as a `README.md` or submit for academic/project use.
 
----
 
 ## 🚗 MotorCompany Database System – Theory & Overview
 
